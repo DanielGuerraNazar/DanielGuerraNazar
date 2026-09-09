@@ -45,4 +45,4 @@
 </p>
 
 ---
-📫 **Como me encontrar:** [Seu LinkedIn aqui](link-do-seu-linkedin) | [Seu E-mail aqui](mailto:seu-email)
+📫 **Como me encontrar:** [LinkedIn](www.linkedin.com/in/daniel-guerra-nazar-a95175338) | [E-mail](daniel.nazar@ufu.br)
