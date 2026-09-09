@@ -36,13 +36,4 @@
 ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
-
-## 📈 Meus Dados no GitHub
-
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=DanielGuerraNazar&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGuerraNazar&layout=compact&theme=radical" />
-</p>
-
----
 📫 **Como me encontrar:** [LinkedIn](https://www.linkedin.com/in/daniel-guerra-nazar-a95175338) | [E-mail](mailto:daniel.nazar@ufu.br)
