@@ -45,4 +45,4 @@
 </p>
 
 ---
-📫 **Como me encontrar:** [LinkedIn](www.linkedin.com/in/daniel-guerra-nazar-a95175338) | [E-mail](daniel.nazar@ufu.br)
+📫 **Como me encontrar:** [LinkedIn](https://www.linkedin.com/in/daniel-guerra-nazar-a95175338) | [E-mail](mailto:daniel.nazar@ufu.br)
