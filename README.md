@@ -1,4 +1,4 @@
-# Olá, eu sou o Rafael! 👋
+# Oi, meu nome é Daniel! 👋
 
 🎓 **Graduando em Engenharia Elétrica | Universidade Federal de Uberlândia (UFU)**  
 ⚡ Apaixonado por eletrônica, IoT, modelagem computacional e desenvolvimento de sistemas.
