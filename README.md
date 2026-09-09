@@ -1,6 +1,6 @@
 # Oi, meu nome é Daniel! 👋
 
-🎓 **Estudante em Engenharia Elétrica | Universidade Federal de Uberlândia (UFU)**  
+🎓 **Estudante de Engenharia Elétrica | Universidade Federal de Uberlândia (UFU)**  
 🎓 **Técnico em Eletrotécnica | Instituto Federal do Triângulo Mineiro (IFTM)**  
 ⚡ Apaixonado por eletrônica, IoT, modelagem computacional e desenvolvimento de sistemas.
 
