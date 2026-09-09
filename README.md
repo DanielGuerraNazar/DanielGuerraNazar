@@ -1,6 +1,7 @@
 # Oi, meu nome é Daniel! 👋
 
-🎓 **Graduando em Engenharia Elétrica | Universidade Federal de Uberlândia (UFU)**  
+🎓 **Estudante em Engenharia Elétrica | Universidade Federal de Uberlândia (UFU)**  
+🎓 **Técnico em Eletrotécnica | Instituto Federal do Triângulo Mineiro (IFTM)**
 ⚡ Apaixonado por eletrônica, IoT, modelagem computacional e desenvolvimento de sistemas.
 
 ---
@@ -31,7 +32,6 @@
 ---
 
 ## 📈 Meus Dados no GitHub
-*(Esses cartões vão gerar estatísticas automáticas do seu perfil)*
 
 <p align="left">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=DanielGuerraNazar&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
